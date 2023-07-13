@@ -1,0 +1,39 @@
+.sidebar-section{
+display: flex;
+/*background-color:purple;*/   
+}
+
+.sidebar{
+    height: 100vh;
+    background-color:blueviolet;
+    width: 95px;
+    /* position:fixed; */
+}
+
+.sidebar-expand{
+    width:230px;
+
+}
+.container-fluid{
+    padding-left: 0px!important;
+    padding-right:0px!important;
+    overflow: hidden;
+}
+
+.icon-for-sidebar-expand-and-collapse{
+
+display: flex;
+align-items: right;
+justify-content: right;
+cursor: pointer;
+
+}
+ .icon-for-sidebar-expand-and-collapse p svg{
+   background-color: purple;
+   padding: 5px;
+   color:white;
+   border-radius: 5px;
+   margin-top:50px;
+
+
+} 

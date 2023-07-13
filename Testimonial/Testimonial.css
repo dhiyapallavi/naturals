@@ -1,0 +1,65 @@
+/* .testimonial-section{
+    margin-top: 70px;
+    height: 70vh;
+}
+
+
+.content-slider-main{
+    margin-top: 70px;
+}
+
+
+.content-slider{
+    padding: 10px;
+    color: white;
+    background-color: #FF1042;
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 30px;
+    cursor: pointer;
+    height: 210px;
+    margin: 5px;
+    border-radius: 5px;
+
+}
+
+
+#dark .content-slider{
+    background-color: #38004C;
+    color: white;
+    box-shadow: -6px 11px 5px -4px rgba(0, 0, 0, 0.42);
+    -webkit-box-shadow: -6px 11px 5px -4px rgba(0, 0, 0, 0.42);
+    -moz-box-shadow: -6px 11px 5px -4px rgba(0, 0, 0, 0.42);
+}
+
+
+.content-slider:hover{
+    background-color: #4B088A;
+    transition-duration: 1s;
+
+}
+
+.content-slider img.center-image{
+    height: 80px;
+    width: 80px;
+    border-radius: 90px;
+    display: block;
+    margin: 0 auto;
+    object-fit: cover;
+    margin-top: -30px;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid yellow;
+}
+
+.slick-prev:before{
+    color: #FF1042!important;
+    font-size: 30px;
+}
+.slick-next:before{
+    color: #FF1042!important;
+    font-size: 30px;
+}
+.slick-disable{
+    color: blueviolet;
+} */
